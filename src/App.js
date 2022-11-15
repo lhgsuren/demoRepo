@@ -53,6 +53,9 @@ function App() {
     setChoiceTwo(null)
     setTurns(prevTurns => prevTurns + 1)
     console.log("hello")
+    console.log("hello")
+    console.log("hello")
+    console.log("hello")
   }
 
   return (
